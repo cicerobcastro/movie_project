@@ -1,6 +1,7 @@
 import fresh_tomatoes
 import media
 
+"""Here is the JSON with data of movies and serie"""
 toy_story = media.Movie("Toy Story 3",
                         "A story of a boy and his toys that come to life",
                         "https://goo.gl/WqGqrq",
@@ -33,7 +34,7 @@ game_of_thrones = media.Serie("Game of Thrones",
                               "https://goo.gl/1i8QL3",
                               "https://www.youtube.com/watch?v=giYeaKsXnsI")
 
-
+"""Here we put informations in a array and call fresh_tomatoes"""
 movies = [toy_story, avatar, rocky,
           forrest_gump, breaking_bad, game_of_thrones]
 fresh_tomatoes.open_movies_page(movies)
