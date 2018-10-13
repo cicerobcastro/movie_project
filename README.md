@@ -1,4 +1,4 @@
-# movie_project - Python 3.7.0
+# Movie Project - Python 3.7.0
 
 # English Version - Project Trailers of Movies and Series
 
