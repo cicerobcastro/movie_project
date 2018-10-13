@@ -1,7 +1,6 @@
-# movie_project
+# movie_project - Python 3.7.0
 
-# English Version
-# Project Trailers of Movies and Series
+# English Version - Project Trailers of Movies and Series
 
 Explaining Files of Project:
 
@@ -11,8 +10,7 @@ Explaining Files of Project:
 
 PS: To run the project, you need run the file fresh_tomatoes.py;
 
-# Portuguese Version
-# Projeto Trailer de Filmes e Series 
+# Portuguese Version - Projeto Trailer de Filmes e Series 
 
 Explicando Arquivos do Projeto:
 
