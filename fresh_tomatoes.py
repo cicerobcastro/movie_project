@@ -117,7 +117,7 @@ main_page_content = '''
         </div>
     </div>
     <div class="container">
-      {movie_tiles}  
+        {movie_tiles}
     </div>
   </body>
 </html>
