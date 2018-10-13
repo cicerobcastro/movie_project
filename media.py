@@ -1,4 +1,5 @@
 class Movie():
+    """This is the Movie class"""
     def __init__(self, title, storyline, poster_image, trailer_youtube):
         self.title = title
         self.storyline = storyline
@@ -10,8 +11,8 @@ class Movie():
 
 
 class Serie(Movie):
-    def __init__(self, title, seasons, storyline, poster_image, trailer_youtube):
+    """This is the Serie class with inheritance of Movie class"""
+    def __init__(self, title, seasons, storyline,
+                 poster_image, trailer_youtube):
         Movie.__init__(self, title, storyline, poster_image, trailer_youtube)
         self.season = seasons
-
-
