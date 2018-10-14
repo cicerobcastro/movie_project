@@ -10,7 +10,7 @@ Explaining Files of Project:
 
 # Version used in the project: Python 3.7.0
 
-You will need Python 2 to run this project.
+You will need Python 2.x or more recently to run this project.
 
 # How to Run Project
 
