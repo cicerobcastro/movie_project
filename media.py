@@ -1,7 +1,6 @@
 """This is the Movie class who will store information of movies"""
-
-
 class Movie():
+    
     """
     title: Store the title of the movies.
     storyline: Store a short description of the movies.
