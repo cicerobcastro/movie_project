@@ -1,5 +1,14 @@
+"""This is the Movie class who will store information of movies"""
+
+
 class Movie():
-    """This is the Movie class"""
+    """
+    title: Store the title of the movies.
+    storyline: Store a short description of the movies.
+    poster_image_url: Store URL of poster of the movies.
+    trailer_youtube_url: Store URL of trailer.
+    """
+
     def __init__(self, title, storyline, poster_image, trailer_youtube):
         self.title = title
         self.storyline = storyline
@@ -7,6 +16,7 @@ class Movie():
         self.trailer_youtube_url = trailer_youtube
 
     def show_trailer(self):
+        """show_trailer plays some trailers in the website"""
         webbrowser.open(self.trailer_youtube_url)
 
 
