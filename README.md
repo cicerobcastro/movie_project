@@ -5,8 +5,8 @@
 Explaining Files of Project:
 
 - entertainment_center: Has a JSON with information of movies, series. 
-- media: Has a Class who receive and store JSON and call browser;
-- fresh_tomatoes: Has a HTML who is called and run the website;
+- media: Class who receive and store JSON and call browser;
+- fresh_tomatoes: HTML who is called and run the website;
 
 # Version used in the project: Python 3.7.0
 
